@@ -23,19 +23,43 @@ li{
 a{
     color: white;
     text-decoration: none;
+    font-family: 'Caveat', cursive;
+    font-size: 23px;
+}
+p{
+    font-family: 'Caveat', cursive;
+    font-size: 20px;
 }
 
 .logo{
     margin: auto;
     margin-left: 100px;
-    font-size: 20px;
     text-transform: uppercase;
+}
+
+.logo p{
+    font-size: 28px;
+}
+
+button{
+    margin: auto;
+    width: 100%;
+    height: 90%;
+    background: none;
+    border: none;
+    color: rgb(101, 102, 101);
+    outline: none;
+
+}
+
+button :hover{
+    color: rgba(101, 102, 101, 0.562);
 }
 
 /* ------------- homePage-bg ------------ */
 .homePage-bg{
     background-image: url("images/bg-img2.jpg");
-    height: 100vh;
+    height: 80vh;
     width: auto;
     background-size: cover;
     background-position: center;
