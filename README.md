@@ -1,3 +1,3 @@
 # audioProject
- Name : Hari Krishna Divi
- student id : N01299910
+ - Name : Hari Krishna Divi
+ - Student id : N01299910
